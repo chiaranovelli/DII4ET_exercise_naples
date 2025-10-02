@@ -6,9 +6,9 @@ The exercise will be carried out entirely in Google Colab — no local installat
 
 ---
 
-## Start the Exercise
+## What to do
 
-Open the notebook directly in Google Colab using the link at the top of the GitHub page:  
+Open the notebook ROM_exercise.ipynb directly in Google Colab using the link at the top of the notebook:  
 **"Open in Colab"**  
 
 This will launch the notebook in Colab, where you can run all the code step by step.  
