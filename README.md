@@ -2,32 +2,26 @@
 
 In this session, we are going to explore how **Proper Orthogonal Decomposition (POD)** combined with **Regression techniques** can be used to build a **Reduced-Order Model (ROM)** for a combustion dataset.  
 
-The exercise will be carried out entirely in **Google Colab** — no local installation is required.  
+The exercise will be carried out entirely in Google Colab — no local installation is required.  
 
 ---
 
-## How to Use
+## Start the Exercise
 
-1. Open the Colab notebook (link will be provided by the instructor).  
-2. Run the notebook step by step:
-   - Load and visualize the dataset  
-   - Apply POD to extract the dominant modes  
-   - Use regression for reduced-order prediction  
-   - Visualize and animate the results  
+Open the notebook directly in Google Colab using the link at the top of the GitHub page:  
+**"Open in Colab"**  
+
+This will launch the notebook in Colab, where you can run all the code step by step.  
 
 ---
 
-## 🎓 Teaching Purpose
+## What You Will Do
 
-This notebook is part of the **Naples School 2025** program.  
-The goal is to give students hands-on experience with:
-- Handling a combustion dataset in Python/Colab  
-- Applying POD for dimensionality reduction  
-- Using regression for reduced-order modeling  
+- Load and visualize a combustion dataset  
+- Apply POD to extract dominant modes  
+- Use regression for reduced-order prediction  
+- Animate and interpret results  
 
-After the hands-on session, a **solution notebook** will be uploaded to this repository.  
-
----
-
+--- 
 
 After the hands-on session, the notebook with the solution will be added to this repo.
